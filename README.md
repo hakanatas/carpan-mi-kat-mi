@@ -17,14 +17,14 @@ A 92-second ink animation for **6th-grade maths**, drawn entirely with JavaScrip
 
 MEB, Türkiye Yüzyılı Maarif Modeli, Ortaokul Matematik, 6th grade, "Sayılar ve Nicelikler" theme:
 
-**MAT.6.1.1. Bir doğal sayının çarpanları ve katları ile ilgili matematiksel muhakeme yapabilme**
-- a) Varsayımlarda bulunur.
-- b) Genellemeleri belirler.
-- c) Genellemeleri çeşitli modellerle gösterir.
-- ç) Matematiksel bir önermeyi sunar.
-- d) Önermenin gerekçelerini sunar.
-- e) Kapsayıcı örnekler verir.
-- f) Doğrulamanın benzer önermelere uygulanabilirliğini değerlendirir.
+**MAT.6.1.1. Karşılaştığı problem durumlarında bir doğal sayının çarpan ve katlarına yönelik muhakeme yapabilme**
+- a) Karşılaştığı durumlarda bir doğal sayının çarpan ve katlarına yönelik varsayımlarda bulunur.
+- b) Varsayımına yönelik örnek durumların içerdiği ilişkileri inceleyerek bir doğal sayının çarpan ve katlarına ilişkin genellemeleri belirler.
+- c) Elde ettiği genellemelerin varsayımını karşılayıp karşılamadığını çeşitli modellerle gösterir.
+- ç) Varsayımı ile ilgili ulaştığı sonuca yönelik doğrulayabileceği matematiksel bir önermeyi sözel ya da sembolik temsil ile sunar.
+- d) Farklı problemlerin pratik yoldan çözümüne yönelik oluşturduğu önermenin gerekçelerini sunar.
+- e) Önermenin geçerliliğini destekleyen kapsayıcı örnekler verir.
+- f) İşe koştuğu doğrulamanın benzer önermelere uygulanıp uygulanamayacağını değerlendirir.
 
 ## Scenes
 
